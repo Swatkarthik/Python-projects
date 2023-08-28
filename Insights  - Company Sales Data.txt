@@ -1,0 +1,15 @@
+Insigts - Company Sales data
+
+ #Data Visualization with Python#
+    #Leverage a software tool to visualize data and enable to extract information,
+    #better understand the data, and make more effective decisions.
+    #Use of several data visualization libraries in Python, namely Matplotlib, Seaborn, and Folium
+    
+                  # Data visualization on "Company Sales on products"
+
+1. The Company targets to sell overall 6 products to the market. In which there were more profit 
+   in the month of november and succedded by August month.Feb Month had the least profit %.
+2. Among the 6 products, "Bathing soap" is the highest selling product. And Moisturizer is the least selling product.
+3. Tooth paste is the average selling product with approximately 6000 units.
+4. Compared to Face Wash, Face cream sales is more over the months.
+5. The product "Bathing soap" takes 40.6% among all the products.
