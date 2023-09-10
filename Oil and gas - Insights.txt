@@ -1,0 +1,21 @@
+                Exploratory Data Analysis on Oil and Gas Prices
+
+Products: ['Brent Oil', 'Crude Oil WTI', 'Natural Gas', 'Heating Oil']
+
+1.There are a number of interesting observations to note. First, crude oil has been the most 
+traded commodity amongst the four until 2020 when it was overtaken by Brent Oil, experiencing
+its lowest in 2021 (with an average traded volume of about 4521 barrels per day). Also, it 
+can be seen that from the initial years, there is a struggle between Brent Oil and Natural Gas 
+for dominance. While Natural Gas had it in from 2000 to 2003, Brent Oil took over in 2003 and has 
+since beaten Natural Gas to the fight. Heating Oil remains the least traded for obvious reasons, I 
+believe.
+
+2. Thus, it can be inferred that there is little association between the volumes traded 
+and the closing price, both for the individual products and all of them combined.
+
+3.Thus, until about 2010, Crude Oil from WTI often had the highest prices. Following then, 
+Brent Oil almost always remained atop. Furthermore, Heating Oil seem to have had somewhat
+steady prices over the years. Natural Gas, on the other hand, show a sporadic behaviour from 
+2000 to 2012, and then takes a journey stable movement from thenceforth.
+
+
